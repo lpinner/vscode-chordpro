@@ -1,6 +1,6 @@
 # ChordPro support for Visual Studio Code
 
-This repository will contain various elements to support ChordPro files in Visual Studio Code.
+This repository contains various elements to support ChordPro files in Visual Studio Code.
 
 It is derived from [sublime-chordpro](https://github.com/kudanai/sublime-chordpro). It includes the following:
 
