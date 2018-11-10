@@ -8,8 +8,6 @@ It is derived from [sublime-chordpro](https://github.com/kudanai/sublime-chordpr
  - Snippets
  - Build Systems (chordpro -> PDF) requires ["chordpro"](https://www.chordpro.org) is installed.
 
- for more information on usage, see the `Docs` folder.
-
 ## About ChordPro
 
 The ChordPro format is a simple notation syntax for guitar chord and tab files commonly found on the internet.
