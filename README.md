@@ -2,8 +2,6 @@
 
 This repository will contain various elements to support ChordPro files in Visual Studio Code.
 
-## Note it currently is just for sublime text as I haven't added my changes yet.
-
 It is derived from [sublime-chordpro](https://github.com/kudanai/sublime-chordpro). It will include the following:
 
  - Syntax highlighting,
