@@ -18,6 +18,3 @@ You can find a more detailed explanation, along with it's origin and history [he
 
 - Clone this repo into $HOME/.vscode/extensions
 
-# Usage
-
-for detailed usage information, see the docs folder.
