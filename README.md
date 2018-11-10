@@ -2,11 +2,11 @@
 
 This repository will contain various elements to support ChordPro files in Visual Studio Code.
 
-It is derived from [sublime-chordpro](https://github.com/kudanai/sublime-chordpro). It will include the following:
+It is derived from [sublime-chordpro](https://github.com/kudanai/sublime-chordpro). It includes the following:
 
  - Syntax highlighting,
  - Snippets
- - Build Systems (chordpro -> PDF)
+ - Build Systems (chordpro -> PDF) requires ["chordpro"](https://www.chordpro.org) is installed.
 
  for more information on usage, see the `Docs` folder.
 
