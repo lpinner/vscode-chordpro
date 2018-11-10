@@ -1,3 +1,5 @@
+# Not yet updated for vscode
+
 #Snippets
 
 The package currently defines the following snippets, which you can use to insert ChordPro formatting elements.

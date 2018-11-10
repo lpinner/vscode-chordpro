@@ -1,0 +1,33 @@
+{
+    "name": "chordpro",
+    "displayName": "ChordPro",
+    "description": "ChordPro format",
+    "version": "0.0.1",
+    "publisher": "lluke",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Languages",
+        "Snippets"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "chordpro",
+            "aliases": ["ChordPro", "chordpro"],
+            "extensions": [".chordpro",".chord",".crd",".chpro",".cho",".chopro",".pro"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "chordpro",
+            "scopeName": "text.chordpro",
+            "path": "./syntaxes/ChordPro.tmLanguage"
+        }],
+        "snippets": [
+            {
+                "language": "chordpro",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
