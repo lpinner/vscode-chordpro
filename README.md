@@ -18,8 +18,7 @@ You can find a more detailed explanation, along with it's origin and history [he
 
 # Installing
 
-- Clone this respository into Sublimes 'Packages' folder.
-- or install through sublime package manger.
+- Clone this repo into $HOME/.vscode/extension
 
 # Usage
 
