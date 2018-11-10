@@ -1,10 +1,14 @@
-# ChordPro support for Sublime Text
+# ChordPro support for Visual Studio Code
 
-This repository contains various elements to support ChordPro files in Sublime Text 2 & 3. It currently includes the following:
+This repository will contain various elements to support ChordPro files in Visual Studio Code.
+
+## Note it currently is just for sublime text as I haven't added my changes yet.
+
+It is derived from [sublime-chordpro](https://github.com/kudanai/sublime-chordpro). It will include the following:
 
  - Syntax highlighting,
  - Snippets
- - Build Systems (chordpro -> postscript)
+ - Build Systems (chordpro -> PDF)
 
  for more information on usage, see the `Docs` folder.
 
@@ -12,7 +16,7 @@ This repository contains various elements to support ChordPro files in Sublime T
 
 The ChordPro format is a simple notation syntax for guitar chord and tab files commonly found on the internet.
 
-You can find a more detailed explanation, along with it's origin and history [here](http://www.vromans.org/johan/projects/Chordii/intro.html)
+You can find a more detailed explanation, along with it's origin and history [here](https://www.chordpro.org)
 
 # Installing
 
