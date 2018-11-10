@@ -18,7 +18,7 @@ You can find a more detailed explanation, along with it's origin and history [he
 
 # Installing
 
-- Clone this repo into $HOME/.vscode/extension
+- Clone this repo into $HOME/.vscode/extensions
 
 # Usage
 
