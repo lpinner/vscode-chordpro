@@ -6,7 +6,7 @@
         {
             "label": "Convert to PDF",
             "type": "shell",
-            "command": "chordpro -o', \"${fileDirname}/${fileBasenameNoExtension}.pdf\" \"${file}\"",
+            "command": "chordpro -o \"${fileDirname}/${fileBasenameNoExtension}.pdf\" \"${file}\"",
             "group": {
                 "kind": "build",
                 "isDefault": true
