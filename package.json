@@ -7,10 +7,6 @@
     "engines": {
         "vscode": "^1.18.0"
     },
-    "categories": [
-        "Languages",
-        "Snippets"
-    ],
     "contributes": {
         "languages": [{
             "id": "chordpro",
@@ -21,12 +17,20 @@
         "grammars": [{
             "language": "chordpro",
             "scopeName": "text.chordpro",
-            "path": "./syntaxes/ChordPro.tmLanguage"
+            "path": "./syntaxes/ChordPro.tmLanguage.json"
         }],
         "snippets": [
             {
                 "language": "chordpro",
                 "path": "./snippets/snippets.json"
+            }
+        ],
+        "taskDefinitions": [
+            {
+                "type": "chordpro_to_pdf"
+            },
+            {
+                "type": "tab_to_chordpro"
             }
         ]
     }
